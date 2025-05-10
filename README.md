@@ -6,7 +6,6 @@
   <a href="https://linkedin.com/in/anwar-neja-6a74082bb" target="_blank">💼 LinkedIn</a> |
   <a href="https://t.me/know82" target="_blank">📬 Telegram</a> |
   <a href="https://instagram.com/neja.anwar" target="_blank">📸 Instagram</a> |
-
   <a href="https://github.com/anwarneja" target="_blank">🐙 GitHub</a>
 </p>
 
@@ -14,7 +13,8 @@
 
 ### 👨‍💻 About Me
 
-I specialize in building **scalable**, **responsive**, and **user-friendly** applications across **web** and **mobile** platforms.
+I'm a passionate **Full Stack & Mobile Developer** who loves building **robust**, **scalable**, and **user-centric** digital solutions.  
+From crafting **responsive UIs** to designing clean **backend APIs** — I enjoy solving complex problems with elegant code.
 
 - 🔭 Working at **A-SQUARE-RADIANT-SOLUTIONS**
 - 🌱 Currently exploring: **Nest.js**, **GraphQL**, **Firebase**
@@ -46,11 +46,11 @@ I specialize in building **scalable**, **responsive**, and **user-friendly** app
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwarneja&show_icons=true&theme=github_dark&hide_title=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarneja&langs_count=8&layout=compact&theme=github_dark&hide=html,css" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anwarneja&show_icons=true&theme=radical&count_private=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarneja&theme=radical&hide_border=false" width="48%" />
 </p>
 
 ---
