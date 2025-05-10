@@ -4,40 +4,49 @@
 ---
 
 ### 👨‍💻 About Me
-I specialize in building scalable, efficient, and beautiful web & mobile apps using modern technologies.  
-Passionate about clean code, seamless UX, and solving real-world problems.
+
+I'm a passionate Full Stack & Mobile Developer who loves building robust, scalable, and user-centric digital solutions.  
+From crafting responsive UIs to designing clean backend APIs — I enjoy solving complex problems with elegant code.
 
 ---
 
 ### 🚀 Tech Stack
 
-**Frontend:**  
-React ⚛️ | Bootstrap 🎨 | Handlebars 🖥️ | HTML5 | CSS3 | JavaScript
+**💻 Frontend:**  
+React.js ⚛️ | Bootstrap 🎨 | Handlebars 🖥️ | HTML5 | CSS3 | JavaScript
 
-**Backend:**  
+**🛠️ Backend:**  
 Node.js 🚀 | Express.js ⚡ | MySQL 🗄️ | MongoDB 🍃
 
-**Mobile Development:**  
-Flutter 📱 | Dart 🎯
+**📱 Mobile:**  
+Flutter 📲 | Dart 🎯
 
-**Tools & Platforms:**  
+**🧰 Tools & Platforms:**  
 Git 🛠️ | GitHub 🧠 | Postman 📡 | VS Code ✍️ | DartPad 🎯 | Cursor 💻
 
-**Testing:**  
-API Testing 🔍 | Unit Testing 🧪
+**✅ Testing:**  
+Unit Testing 🧪 | API Testing 🔍
 
 ---
 
-### 🌐 Connect With Me
+### 📌 Key Projects *(Pin these to your GitHub profile)*
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anwar-neja-6a74082bb)
-- 🌍 [Website](http://www.anwarneja.com)
+- `🌐 Smart Track`: Medication Traceability System for Ethiopia (Node.js, MySQL, Express)
+- `🎓 Student Management System`: Full-featured education management tool
+- `📲 Flutter Expense Tracker`: Cross-platform mobile app with local storage
+
+---
+
+### 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anwar-neja-6a74082bb)
+- 🌍 [anwarneja.com](http://www.anwarneja.com)
 - 💬 [Telegram](https://t.me/know82)
-- 🛠 [GitHub](https://github.com/anwarneja)
+- 💻 [GitHub](https://github.com/anwarneja)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anwarneja&show_icons=true&theme=radical&count_private=true&hide_border=false" width="48%" />
@@ -50,6 +59,21 @@ API Testing 🔍 | Unit Testing 🧪
 
 ---
 
-### ⚡ Fun Fact
-I drink more code than coffee. ☕🚀
+### 🏆 GitHub Achievements
 
+- 🥇 Active Contributor
+- 📌 Pinned Repositories
+- ⭐ Starred Projects
+- 🔁 Commits Across Multiple Projects
+
+---
+
+### ⚡ Fun Facts
+
+- 🧠 I'm self-taught and always learning something new.
+- 💡 I love turning ideas into interactive, real-world products.
+- 🤝 Open to collaborations and freelance opportunities.
+
+---
+
+> 🎯 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
